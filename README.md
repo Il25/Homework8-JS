@@ -1,0 +1,1 @@
+#Homework8 - JavaScript begginner (12 tasks)
